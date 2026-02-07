@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. LaMME, Université d’Évry Paris-Saclay
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office number: 403</p>
+    <p>23 Bd de France</p>
+    <p>91037 Evry CEDEX, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am currently postdoc at LaMME, Université d'Évry, working in the team of Mme. [Juhyun Park](http://www.math-evry.cnrs.fr/members/Jpark/welcome#:~:text=Juhyun%20Park.%20Ma%C3%AEtre%20de%20conf%C3%A9rence%20ENSIIE.%20ENSIIE.%20Laboratoire%20de%20Math%C3%A9matiques), funded by FMJH.  
+I used to be postdoc at LMM, Le Mans Université, working in the team of M. Alexandre Brouste, M. Laurent Denis and M. Youssef Esstafa as part of the project ANR EFFI, assigned to unit FR2962 Mathematical Research Federation of Pays de Loire, CNRS.
+I used to be postdoc at LMRS, Université de Rouen Normandie, working in the team of M. Mohamed Ben Alaya and M. Serge Pergamenchtchikov as part of the project MaSyComB, RIN Recherche (projet Tremplin) "Normandie Digitale". 
+I used to be ATER at LAGA and LAMA, Université Sorbonne Paris Nord and Université Paris Est Créteil.
+I am former PhD student at LAGA, Université Sorbonne Paris Nord, under the supervision of M. Mohamed Ben Alaya and M. Ahmed Kebaier, funded by FSMP.
+I used to be Master student in the program Master Franco - Vietnamien de mathématiques appliquées MFVMA.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
