@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TramNGO-Maths.github.io/tn-folio/sitemap.xml
+Sitemap: https://TramNGO-Maths.github.io/sitemap.xml
