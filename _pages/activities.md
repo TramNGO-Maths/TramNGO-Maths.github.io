@@ -17,7 +17,7 @@ nav_order: 3
 - [DYNSTOCH 2025](https://dynstoch2025.mathnum.inrae.fr/), Le Mans, 4 - 6 June.
 - Séminaire de Probabilités et Statistiques, Institut Élie Cartan de Lorraine, 6 fév 2025 
 - GdT Méthodes Stochastiques et Finance , CERMICS, 4 fév 2025
-- [CFE-CMStatistics 2024](qp4609pp19362rp965364ro80844o67r), King's College London, UK, Dec 14-16, 2024
+- [CFE-CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/), King's College London, UK, Dec 14-16, 2024
 - Séminaire Probabilités et Mathématiques Financières, LaMME, Université d'Évry,  17 oct 2024
 - [RMR2024](https://rmr2024.sciencesconf.org/), Rouen - Juin 19-21, 2024 
 - Séminaire de statistique, LMRS, Université de Rouen Normandie - Avril 18, 2024 
