@@ -6,14 +6,6 @@ cv:
   image: ""
   summary: A probabilist and a statistician
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
   address:
     street: 23 Bd de France
     city: Évry
@@ -25,7 +17,6 @@ cv:
     Education:
       - institution: Université Sorbonne Paris Nord
         location: Villetaneuse, France
-        url: 
         area: Applied Mathematics
         studyType: PhD
         start_date: 2016
