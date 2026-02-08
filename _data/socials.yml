@@ -1,14 +1,25 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# Social links shown on your site (order matters)
+
+# Optional: path to your CV file in the repo
+# (Change to your real file, or keep it commented out)
+# cv_pdf: /assets/pdf/cv.pdf
+
+# Your real email (replace this)
+email: tram.ngo.18@gmail.com
+
+# Optional: only keep this if you truly have an InspireHEP author page
+# inspirehep_id: 1010907
+
+# Show RSS icon
+rss_icon: true
+
+# Google Scholar profile ID (this is correct for your profile)
+scholar_userid: 2Dsno8wAAAAJ
+
+# Example of a custom icon/link (optional)
+# If you keep it, prefer an SVG in your own assets for stability.
+# custom_social:
+#   logo: /assets/img/custom-icon.svg
+#   title: Custom
+#   url: https://example.com
+

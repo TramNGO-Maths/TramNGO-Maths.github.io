@@ -1,115 +1,241 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title     = {Relativity: the Special and General Theory},
-  author    = {Einstein, Albert},
-  year      = {1920},
-  publisher = {Methuen & Co Ltd},
-  html      = {relativity.html}
-}
-
-@book{einstein1956investigations,
+@article{BenAlayaKebaierNgo2022_AAP,
+  abbr        = {Ann. Appl. Probab.},
   bibtex_show = {true},
-  title       = {Investigations on the Theory of the Brownian Movement},
-  author      = {Einstein, Albert},
-  year        = {1956},
-  publisher   = {Courier Corporation},
-  preview     = {brownian-motion.gif}
+  selected    = {true},
+  author      = {Ben Alaya, Mohamed and Kebaier, Ahmed and Ng{\^o}, Thi Bao Tram},
+  title       = {Central limit theorem for the antithetic multilevel Monte Carlo method},
+  journal     = {The Annals of Applied Probability},
+  volume      = {32},
+  number      = {3},
+  pages       = {1970--2027},
+  year        = {2022},
+  publisher   = {Institute of Mathematical Statistics},
+  doi         = {10.1214/21-AAP1726},
+  url         = {https://doi.org/10.1214/21-AAP1726},
+  google_scholar_id = {2osOgNQ5qMEC},
+  abstract = {In this paper, we introduce the σ-antithetic multilevel Monte Carlo (MLMC)
+estimator for a multi-dimensional diffusion which is an extended version of the original anti-
+thetic MLMC one introduced by Giles and Szpruch. Our aim is to study the asymptotic
+behavior of the weak errors involved in this new algorithm. Among the obtained results, we
+prove that the error between on the one hand the average of the Milstein scheme without
+Lévy area and its σ-antithetic version build on the finer grid and on the other hand the
+coarse approximation stably converges in distribution with a rate of order 1. We also prove
+that the error between the Milstein scheme without Lévy area and its σ-antithetic version
+stably converges in distribution with a rate of order 1/2. More precisely, we have a functional
+limit theorem on the asymptotic behavior of the joined distribution of these errors based on
+a triangular array approach. Thanks to this result, we establish a
+central limit theorem of Lindeberg-Feller type for the σ-antithetic MLMC estimator. The
+time complexity of the algorithm is carried out.}
 }
 
-@article{einstein1950meaning,
-  abbr        = {AJP},
+@article{10.3150/24-BEJ1794,
+  abbr        = {Bernoulli},
   bibtex_show = {true},
-  title       = {The meaning of relativity},
-  author      = {Einstein, Albert and Taub, AH},
-  journal     = {American Journal of Physics},
-  volume      = {18},
-  number      = {6},
-  pages       = {403--404},
-  year        = {1950},
-  publisher   = {American Association of Physics Teachers}
+  author      = {Brouste, Alexandre and Denis, Laurent and Ng{\^o}, Thi-Bao-Tr{\^a}m},
+  title       = {LAMN property for stable-L{\'e}vy SDEs with constant scale coefficient},
+  journal     = {Bernoulli},
+  volume      = {31},
+  number      = {3},
+  pages       = {1991--2017},
+  year        = {2025},
+  publisher   = {Bernoulli Society for Mathematical Statistics and Probability},
+  keywords    = {LAMN property, L{\'e}vy process, one-step procedure, Parametric estimation, Stable process, Stochastic differential equation},
+  doi         = {10.3150/24-BEJ1794},
+  url         = {https://doi.org/10.3150/24-BEJ1794},
+  abstract = {The joint parametric estimation of the drift coefficient, the scale coefficient and the jump activity in stochastic differential equations driven by a symmetric stable Lévy process is considered, based on high-frequency observations.
+Firstly, the LAMN property for the corresponding Euler-type scheme is proven and lower bounds for the estimation risk in this setting are deduced. When the approximation scheme experiment is asymptotically equivalent to the original one, these bounds can be transferred. Secondly, a one-step procedure is proposed which is shown to be fast and asymptotically normal and even asymptotically efficient when the scale coefficient is constant. The
+performances in terms of asymptotical variance and computation time on samples of finite size are illustrated with simulations.}
 }
 
-@article{PhysRev.47.777,
-  abbr              = {PhysRev},
-  title             = {Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author            = {Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract          = {In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal           = {Phys. Rev.},
-  location          = {New Jersey},
-  volume            = {47},
-  issue             = {10},
-  pages             = {777--780},
-  numpages          = {0},
-  year              = {1935},
-  month             = {May},
-  publisher         = aps,
-  doi               = {10.1103/PhysRev.47.777},
-  url               = {https://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html              = {https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf               = {example_pdf.pdf},
-  altmetric         = {248277},
-  dimensions        = {true},
-  google_scholar_id = {qyhmnyLat1gC},
-  video             = {https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info   = {. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation        = {* Example use of superscripts<br>† Albert Einstein},
-  selected          = {true},
-  inspirehep_id     = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title     = {{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author    = {Einstein, A.},
-  journal   = {Annalen der physik},
-  volume    = {322},
-  number    = {8},
-  pages     = {549--560},
-  year      = {1905},
-  publisher = {Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr    = {Ann. Phys.},
-  title   = {Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author  = {Einstein, A.},
-  journal = {Ann. Phys.},
-  volume  = {17},
-  pages   = {549--560},
-  year    = {1905}
-}
-
-@article{einstein1905electrodynamics,
-  title  = {On the electrodynamics of moving bodies},
-  author = {Einstein, A.},
-  year   = {1905}
-}
-
-@article{einstein1905photoelectriceffect,
+@incollection{BenAlayaKebaierNgo2021,
+  abbr        = {Book Chapter},
   bibtex_show = {true},
-  abbr        = {Ann. Phys.},
-  title       = {{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}},
-  author      = {Albert Einstein},
-  abstract    = {This is the abstract text.},
-  journal     = {Ann. Phys.},
-  volume      = {322},
-  number      = {6},
-  pages       = {132--148},
-  year        = {1905},
-  doi         = {10.1002/andp.19053220607},
-  award       = {Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name  = {Nobel Prize}
+  author      = {Ben Alaya, Mohamed and Kebaier, Ahmed and Ng{\^o}, Thi-Bao-Tr{\^a}m},
+  title       = {The Multilevel Monte Carlo Method for Jump {L{\'e}vy} Models: Central Limit Theorem},
+  editor      = {Kudryavtsev, Oleg and Zanette, Antonino},
+  booktitle   = {Applications of L{\'e}vy Processes},
+  publisher   = {Nova Science Publishers, Inc.},
+  address     = {New York, NY, USA},
+  year        = {2021},
+  pages       = {Chapter 5},
+  isbn        = {9781536195255},
+  url         = {https://novapublishers.com/shop/applications-of-levy-processes/},
+  abstract = {We prove a central limit theorem on the Multilevel Monte Carlo
+method for pricing vanilla type options when the underlying asset is given by an
+exponential Lévy model. To prove this result we give a functional limit theorem on
+the asymptotic behavior of the error distribution of the approximating process between
+two consecutive levels of the Multilevel Monte Carlo method. Moreover we provide
+an analysis of the time complexity and it turns out that the MLMC method reduces
+efficiently the time cost compared to a classical Monte Carlo method and in some
+particular cases for a given precision ε it reaches the optimal complexity O(ε−2) so
+that it behaves like an unbiased Monte Carlo method. We illustrate the supremacy of
+the MLMC method over the Monte Carlo methods through numerical tests for pricing
+European call options under an exponential Lévy model where the Lévy process is
+given by the CGMY model that covers a general class of Lévy processes.}
 }
 
-@book{przibram1967letters,
+@article{LE2025144509,
+  abbr        = {Chemosphere},
   bibtex_show = {true},
-  title       = {Letters on wave mechanics},
-  author      = {Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year        = {1967},
-  publisher   = {Vision},
-  preview     = {wave-mechanics.gif},
-  abbr        = {Vision}
+  author      = {L{\^e}, V{\u a}n and Ng{\^o}, Thi-Bao Tr{\^a}m},
+  title       = {Evaluating the air quality transmission among Southeast Asian cities},
+  journal     = {Chemosphere},
+  volume      = {384},
+  pages       = {144509},
+  year        = {2025},
+  issn        = {0045-6535},
+  doi         = {10.1016/j.chemosphere.2025.144509},
+  url         = {https://www.sciencedirect.com/science/article/pii/S0045653525004539},
+  keywords    = {Air quality transmission, Environmental agreement, ASEAN},
+  abstract    = {This study evaluates the air quality transmission among Southeast Asian cities which include Ho Chi Minh City, Hanoi, Bangkok, Singapore, Kuala Lumpur, and Jakarta. We investigate the daily air quality datasets from 28 August 2019 to 04 April 2023 using the multivariate generalized autoregressive conditional heteroskedasticity modeling framework combined with the conditional correlation mechanism. We find significant bilateral interactions between Ho Chi Minh City and Bangkok and between Kuala Lumpur and Singapore. In specific, the air quality in Ho Chi Minh City and Bangkok positively affects to each other. Besides, the air quality in Singapore positively drives the air quality in Kuala Lumpur, but the inverse relation is negative. These findings preliminary suggest bilateral environmental agreements among sub-regions of Southeast Asia. Such treaties are expected to lay the background for future agenda in relation to environmental protection, especially in pursuit of sustainable development.}
 }
+
+@article{Esstafa04032026,
+  abbr        = {CSTH},
+  bibtex_show = {true},
+  author      = {Esstafa, Youssef and Kokonendji, C{\'e}lestin C. and Ng{\^o}, Thi-Bao-Tr{\^a}m},
+  title       = {Asymptotic properties of continuous associated-kernel density estimators},
+  journal     = {Communications in Statistics - Theory and Methods},
+  volume      = {55},
+  number      = {5},
+  pages       = {1568--1588},
+  year        = {2026},
+  publisher   = {Taylor \& Francis},
+  doi         = {10.1080/03610926.2025.2530135},
+  url         = {https://doi.org/10.1080/03610926.2025.2530135},
+  eprint      = {https://doi.org/10.1080/03610926.2025.2530135},
+  abstract = {We consider the general modern notion of the so-called associated-kernels for smoothing density function on a given support. We first show that the unnormalized estimator is consistent and that the normalizing random variable converges in L^4 to 1. Then, we deduce the consistency of the considered normalized estimator. The comparison in favor of the normalized estimator is obtained by the mean squared error. We conclude by providing, for the first time, the general asymptotic normalities through some regularity assumptions for both unnormalized and normalized associated-kernel density estimators. The Gumbel, Weibull, lognormal, and other associated kernels are investigated for illustrating theoretically and numerically some of our results with an application to original data of automobile claim amounts from Covéa Affinity. }
+}
+
+@article{BenAlaya25092025,
+  abbr        = {Seq. Anal.},
+  bibtex_show = {true},
+  author      = {Ben Alaya, Mohamed and Ng{\^o}, Thi-Bao Tr{\^a}m and Pergamenchtchikov, Serguei},
+  title       = {Truncated sequential guaranteed estimation for the Cox-Ingersoll-Ross models},
+  journal     = {Sequential Analysis},
+  volume      = {0},
+  number      = {0},
+  pages       = {1--29},
+  year        = {2025},
+  publisher   = {Taylor \& Francis},
+  doi         = {10.1080/07474946.2025.2552960},
+  url         = {https://doi.org/10.1080/07474946.2025.2552960},
+  eprint      = {https://doi.org/10.1080/07474946.2025.2552960},
+  abstract ={The drift sequential parameter estimation problems for the Cox-Ingersoll-Ross (CIR) processes under the limited duration of observation are studied. Truncated sequential estimation methods for both scalar and two-dimensional parameter cases are proposed. In the non-asymptotic setting, for the proposed truncated estimators, the properties of guaranteed mean-square estimation accuracy are established. In the asymptotic formulation, when the observation time tends to infinity, it is shown that the proposed sequential procedures are asymptotically optimal among all possible sequential and non-sequential estimates with an average estimation time less than the fixed observation duration. It also turned out that asymptotically, without degrading the estimation quality, they significantly reduce the observation duration compared to classical non-sequential maximum likelihood estimations based on a fixed observation duration. }
+}
+
+@mastersthesis{Ngo2016Master,
+  abbr        = {Master Thesis},
+  bibtex_show = {true},
+  author      = {Ng{\^o}, Thi Bao Tr{\^a}m},
+  title       = {L{\'e}vy Processes and Applications to Finance},
+  school      = {Universit{\'e} Sorbonne Paris Nord},
+  year        = {2016},
+  type        = {Master 2 thesis},
+  address     = {France},
+  note        = {Supervised by Prof. Mohamed Ben Alaya; Summer 2016},
+  abstract ={Lévy processes are known as an excellent tool for modeling price processes in mathematical finance. In particular, they form a central class of stochastic processes containing both Brownian motion and the Poisson process and are prototypes of Markov processes
+and semi-martingales. An important feature for modeling price processes is that they
+allow to model abrupt moves by jumps like Poisson process. In this thesis, some theories of Lévy processes needed for financial applications and different methods for pricing financial derivatives will be introduced. Popular models in the literature and their possible simulation techniques would be presented.}
+}
+
+@article{BenAlaya17112025,
+  abbr        = {Stoch.},
+  bibtex_show = {true},
+  author      = {Ben Alaya, Mohamed and Ng{\^o}, Thi Bao Tr{\^a}m and Pergamenchtchikov, Serguei},
+  title       = {Optimal guaranteed estimation methods for the Cox--Ingersoll--Ross models},
+  journal     = {Stochastics},
+  volume      = {97},
+  number      = {8},
+  pages       = {1109--1142},
+  year        = {2025},
+  publisher   = {Taylor \& Francis},
+  doi         = {10.1080/17442508.2025.2450219},
+  url         = {https://doi.org/10.1080/17442508.2025.2450219},
+  eprint      = {https://doi.org/10.1080/17442508.2025.2450219},
+  abstract = {In this paper we study parameter estimation problems for the Cox-Ingersoll-Ross (CIR) processes. For the first time for such models sequential estimation procedures are proposed. In the non-asymptotic setting, the proposed sequential procedures provide the estimation with non-asymptotic fixed mean square accuracy. For the scalar parameter estimation problems non-asymptotic normality properties for the proposed estimators are established even in the cases when the classical non sequential maximum likelihood estimators can not be calculated. Moreover, the Laplace transformations for the mean observation durations are obtained. In the asymptotic setting, the limit forms for the mean observation durations are founded and it is shown, that the constructed sequential estimators uniformly converge in distribution to normal random variables. Then using the Local Asymptotic Normality (LAN) property it is obtained asymptotic sharp lower bound for the minimax risks in the class of all sequential procedures with the same mean observation duration and as consequence, it is established, that the proposed sequential procedures are optimal in the minimax sens in this class.}
+}
+
+@phdthesis{Ngo2021,
+  abbr        = {PhD thesis},
+  bibtex_show = {true},
+  author      = {Ng{\^o}, Thi Bao Tr{\^a}m},
+  title       = {Limit theorems for the MLMC method for several models: exponential L{\'e}vy processes, SDE driven by pure jump L{\'e}vy process and diffusion process with antithetic approximation},
+  school      = {Universit{\'e} Sorbonne Paris Nord (Paris 13), {\'E}cole doctorale Galil{\'e}e},
+  year        = {2021},
+  type        = {PhD thesis},
+  address     = {France},
+  month       = jul,
+  note        = {Defended on 09 July 2021; supervisors: Mohamed Ben Alaya and Ahmed Kebaier},
+  url         = {https://theses.hal.science/tel-03545234},
+  abstract ={Motivated by the multilevel Monte Carlo method introduced by Giles, 2008 to improve the rate of convergence by the Monte Carlo method, we are interested in developing limit theorems for different settings. The thesis consists of three parts:
+For the first part, we prove a central limit theorem on the Multilevel Monte Carlo
+method for pricing vanilla type options when the underlying asset is given by an
+exponential Lévy model. To prove this result we give a functional limit theorem on
+the asymptotic behavior of the error distribution of the approximating process between
+two consecutive levels of the Multilevel Monte Carlo method. Moreover we provide
+an analysis of the time complexity and it turns out that the MLMC method reduces
+efficiently the time cost compared to a classical Monte Carlo method and in some
+particular cases for a given precision ε it reaches the optimal complexity O(ε−2) so
+that it behaves like an unbiased Monte Carlo method. We illustrate the supremacy of
+the MLMC method over the Monte Carlo methods through numerical tests for pricing
+European call options under an exponential Lévy model where the Lévy process is
+given by the CGMY model that covers a general class of Lévy processes.
+For the second part, we study the asymptotic behavior of the normalized error
+process between Euler approximations
+with time steps 1/n and 1/nm of a given stochastic differential equation driven by
+a pure jump Lévy process. In this paper, we prove that this multilevel error process
+converges to some non-trivial limiting process with a sharp rate. The obtained
+results extend those of Jacod, 2004. For the
+multilevel error, the proofs of the current paper are challenging since unlike Jacod,
+2004 we need to deal with m dependent triangular arrays instead of one. Formally,
+when letting m tends to infinity, we recover limit processes of Jacod, 2004.
+For the last part, we introduce our antithetic MLMC estimator for a multi-
+dimensional diffusion which is an extended version of the original antithetic MLMC
+one introduced by Giles and Szpruch, 2014. Our aim is to study the asymptotic be-
+havior of the weak errors involved in this new algorithm. Among the obtained results,
+we prove that the error between on the one hand the average of the Milstein scheme
+without Lévy area and its antithetic version build on the finer grid and on the other
+hand the coarse approximation stably converges in distribution with a rate of order
+1. We also prove that the error between the Milstein scheme without Lévy area and
+its antithetic version stably converges in distribution with a rate of order 1/2. More
+precisely, we have a functional limit theorem on the asymptotic behavior of the joined
+distribution of these errors based on a triangular array approach. Thanks to this
+result, we establish a central limit theorem of Lindeberg-Feller type for the antithetic
+MLMC estimator. The time complexity of the algorithm is carried out.}
+}
+
+@article{BenAlayaKebaierNgo2025_TVP,
+  abbr        = {TVP},
+  bibtex_show = {true},
+  author      = {Ben Alaya, Mohamed and Kebaier, Ahmed and Ng{\^o}, Thi{-}Bao Tr{\^a}m},
+  title       = {Asymptotic behavior of a multilevel type error for SDEs driven by a pure jump L{\'e}vy process},
+  journal     = {Theory of Probability and Its Applications},
+  year        = {2025},
+  volume      = {70},
+  number      = {2},
+  pages       = {247--290},
+  doi         = {10.4213/tvp5703},
+  url         = {http://mi.mathnet.ru/tvp5703},
+  abstract = {Motivated by the multilevel Monte Carlo method introduced by Giles, we study the asymptotic behavior of the normalized error process un,m(Xn−Xnm) where Xn and Xnm are respectively Euler approximations with time steps 1/n and 1/nm of a given stochastic differential equation X driven by a pure jump Lévy process. In this paper, we prove that this normalized multilevel error converges to different non-trivial limiting processes with various sharp rates un,m depending on the behavior of the Lévy measure around zero. Our results are consistent with those of Jacod obtained for the normalized error un(Xn−X), as when letting m tends to infinity, we recover the same limiting processes. For the multilevel error, the proofs of the current paper are challenging since we need to deal with m dependent triangular arrays instead of one. }
+}
+
+@mastersthesis{Ngo2015Graduate,
+  abbr        = {Grad. Diss.},
+  bibtex_show = {true},
+  author      = {Ng{\^o}, Thi{-}Bao Tr{\^a}m},
+  title       = {Calculation on the Local Igusa Zeta Function},
+  school      = {University of Pedagogy},
+  address     = {Vietnam},
+  year        = {2015},
+  type        = {Graduate dissertation},
+  note        = {Supervised by Prof.\ S.\ Duong; Summer 2015.},
+  abstract = {The Igusa zeta function has become a subject of worldwide research interest because it relates to number theory in determining Poincaré series and also to counting the roots of a polynomial over a finite field.
+This thesis presents some basic knowledge of p-adic analysis, the concept and
+methods for calculating the local Igusa zeta function. In addition to using the SPF formula, the thesis
+also mentions two more ways to calculate the local Igusa zeta function. One of them is to use
+Hensel's theorem for functions satisfying certain given conditions. Another method
+can apply Newton's polyhedra to calculate the local Igusa zeta function with a polynomial
+degenerate in some faces of its Newton's polyhedron.}
+}
+
