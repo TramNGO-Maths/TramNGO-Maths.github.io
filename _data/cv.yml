@@ -25,6 +25,8 @@ cv:
         courses: "Limit theorems for the MLMC method for several models: Lévy exponential process, SDE directed by a pure jump Lévy process, and diffusion process with an antithetical approximation"
         highlights:
         url: https://theses.hal.science/tel-03545234
+        highlights:
+          - Scholarship from the FSMP
 
       - institution: Université d'Orléans
         location: Orléans, France
@@ -32,6 +34,8 @@ cv:
         studyType: Master
         start_date: 2015
         end_date: 2016
+        highlights:
+          - Scholarship from the Erasmus+
 
     Experience:
       - company: Université Évry Paris-Saclay
