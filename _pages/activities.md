@@ -8,9 +8,11 @@ nav_order: 3
 
 ## Co-organizer of
 - [RT-MATRISK-2025](https://rt-matrisk2025.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en) : Conference 2025 du RT Matrisk, 10-13 juin 2025 Paris (France)
-- Journée "Statistical inference for particle systems", LaMME, Univerisité ÉvryParis-Saclay, avril, 2026.
+- Journeys "Statistical inference for particle systems", LaMME, Univerisité ÉvryParis-Saclay, 7-8 April, 2026.
 
 ## Talks given at
+- 9th International Workshop on Sequential Methodologies ([IWSM](https://www.american.edu/cas/iwsm2026/index.cfm)), American University, Washington, DC, June 1–4, 2026 (forthcoming)
+- Séminaire de Statistique et Génome, LaMME, Université Évry Paris-Saclay, 26 Feb, 2026.
 - [Annual Day for Postdocs](https://fondation-hadamard.fr/en/events/welcome-days/welcome-day-for-post-docs/) in Mathematics of Île-de-France, October 21, 2025 at the IHES in Bures-sur-Yvette. 
 - Séminaire de probabilité de Marseille, Institut de Mathématiques de Marseille, 7 Oct, 2025.
 - [National Conference on Probability-Statistics](https://xstk.hus.vnu.edu.vn/), Quy Nhon, Viet Nam, 4 - 8 August,2025.
