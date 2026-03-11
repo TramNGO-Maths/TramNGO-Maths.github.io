@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Co-organizer of
 - [RT-MATRISK-2025](https://rt-matrisk2025.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en) : Conference 2025 du RT Matrisk, 10-13 juin 2025 Paris (France)
-- Journeys "Statistical inference for particle systems", LaMME, Univerisité ÉvryParis-Saclay, 7-8 April, 2026.
+- Workshop "Statistical inference for particle systems" ([SIPS 2026](https://sips26.sciencesconf.org/)), LaMME, Univerisité ÉvryParis-Saclay, 7-8 April, 2026.
 
 ## Talks given at
 - 9th International Workshop on Sequential Methodologies ([IWSM](https://www.american.edu/cas/iwsm2026/index.cfm)), American University, Washington, DC, June 1–4, 2026 (forthcoming)
