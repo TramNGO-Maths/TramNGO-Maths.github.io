@@ -8,15 +8,17 @@ nav_order: 3
 
 ## Co-organizer of
 - [RT-MATRISK-2025](https://rt-matrisk2025.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en) : Conference 2025 du RT Matrisk, 10-13 juin 2025 Paris (France)
-- Workshop "Statistical inference for particle systems" ([SIPS 2026](https://sips26.sciencesconf.org/)), LaMME, Univerisité ÉvryParis-Saclay, 7-8 April, 2026.
+- Workshop "Statistical inference for particle systems" ([SIPS 2026](https://sips26.sciencesconf.org/)), LaMME, Univerisité ÉvryParis-Saclay, 7-8 April, 2026
 
 ## Talks given at
-- 9th International Workshop on Sequential Methodologies ([IWSM](https://www.american.edu/cas/iwsm2026/index.cfm)), American University, Washington, DC, June 1–4, 2026 (forthcoming)
-- Séminaire de Statistique et Génome, LaMME, Université Évry Paris-Saclay, 26 Feb, 2026.
-- [Annual Day for Postdocs](https://fondation-hadamard.fr/en/events/welcome-days/welcome-day-for-post-docs/) in Mathematics of Île-de-France, October 21, 2025 at the IHES in Bures-sur-Yvette. 
-- Séminaire de probabilité de Marseille, Institut de Mathématiques de Marseille, 7 Oct, 2025.
-- [National Conference on Probability-Statistics](https://xstk.hus.vnu.edu.vn/), Quy Nhon, Viet Nam, 4 - 8 August,2025.
-- [DYNSTOCH 2025](https://dynstoch2025.mathnum.inrae.fr/), Le Mans, 4 - 6 June.
+- 27th International Conference on Computational Statistics ([COMPSTAT](https://www.cmstatistics.org/RegistrationsV2/COMPSTAT2026/viewSubmission.php?in=1255&token=nq5poo5638863p3121qq2nqs2ps303r3)), Athens University Law School, 25-28 August 2026
+- Séminaire Probabilités et Mathématiques Financières, LaMME, Université d'Évry,  4 June 2026
+- 9th International Workshop on Sequential Methodologies ([IWSM](https://www.american.edu/cas/iwsm2026/index.cfm)), American University, Washington, DC, June 1–4, 2026
+- Séminaire de Statistique et Génome, LaMME, Université Évry Paris-Saclay, 26 Feb, 2026
+- [Annual Day for Postdocs](https://fondation-hadamard.fr/en/events/welcome-days/welcome-day-for-post-docs/) in Mathematics of Île-de-France, October 21, 2025 at the IHES in Bures-sur-Yvette 
+- Séminaire de probabilité de Marseille, Institut de Mathématiques de Marseille, 7 Oct, 2025
+- [National Conference on Probability-Statistics](https://xstk.hus.vnu.edu.vn/), Quy Nhon, Viet Nam, 4 - 8 August,2025
+- [DYNSTOCH 2025](https://dynstoch2025.mathnum.inrae.fr/), Le Mans, 4 - 6 June
 - Séminaire de Probabilités et Statistiques, Institut Élie Cartan de Lorraine, 6 fév 2025 
 - GdT Méthodes Stochastiques et Finance , CERMICS, 4 fév 2025
 - [CFE-CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/), King's College London, UK, Dec 14-16, 2024
