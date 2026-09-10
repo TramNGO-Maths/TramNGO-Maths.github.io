@@ -43,6 +43,7 @@ nav_order: 3
 - [Statistical Inference for Stochastic Processes](https://link.springer.com/journal/11203)
 - [Mathematics and Computers in Simulation](https://www.sciencedirect.com/journal/mathematics-and-computers-in-simulation)
 - [REVSTAT-Statistical Journal](https://revstat.ine.pt/index.php/REVSTAT/index)
+- [Sequential Analysis](https://www.tandfonline.com/journals/lsqa20)
 
 
 ## Other conferences and seminars attended
